@@ -3,6 +3,7 @@ I am making a miniature recreation of Howl's Moving Castle, by Studio Ghibli. It
 <br><br>
 <img width="325" height="180" alt="OIP" src="https://github.com/user-attachments/assets/b022d8e1-9e6e-4ec9-ae16-d0d87fc3f7a5" /> 
 (This thing, I'm essentially making a mini version on this :D)
+
 <h1>Features</h1>
 <ul>
   <li>looks cool</li>
@@ -11,6 +12,15 @@ I am making a miniature recreation of Howl's Moving Castle, by Studio Ghibli. It
   <li>powered by embedded power bank</li>
   <li>looks super very uber cool</li>
 </ul>
+
+<h1>Parts List</h1>
+<ul>
+  <li>ATmega32 Uno R3 Microcontroller:  x1</li>
+  <li>Miuzei MG90S Micro Servo Motor:  x8</li>
+  <li>5v 12000mAh 2 output Power Bank:  x1</li>
+  <li>PCA9685 Motor Driver:  x1</li>
+</ul>
+
 <h1>Design Breakdown</h1>
 <img width="757" height="1022" alt="Screenshot 2026-04-20 165631" src="https://github.com/user-attachments/assets/a070eb39-d1e5-4d0a-884f-b46e6173696a" />
 <img width="783" height="1048" alt="Section A1" src="https://github.com/user-attachments/assets/021d4b1c-2a6b-4592-8984-30ab0b10c26d" />
