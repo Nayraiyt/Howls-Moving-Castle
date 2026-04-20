@@ -1,5 +1,4 @@
 # Howls-Moving-Castle
-<h1>TLDR</h1>
 I am making a miniature recreation of Howl's Moving Castle, by Studio Ghibli. It'll be able to walk and maneuver along a set path, while looking positively fabulous. This project is a blend between art and tech, with both aspects being heavily considered + implemented throughout the design and conception of this project. (ps. if you have never watched the movie, I highly recommend it :DDD) 
 <br><br>
 <img width="325" height="180" alt="OIP" src="https://github.com/user-attachments/assets/b022d8e1-9e6e-4ec9-ae16-d0d87fc3f7a5" /> 
